@@ -50,10 +50,10 @@
 ## Screenshots
 
 ### Add Password
-![Add Password](public\screenshots\pic-2.png)
+![Add Password](public/screenshots/pic-1.png)
 
 ### Password List
-![Password List](public\screenshots\pic-1.png)
+![Password List](public/screenshots/pic-1.png)
 
 ### Edit/Delete Password
-![Edit/Delete Password](public\screenshots\pic-3.png)
+![Edit/Delete Password](public/screenshots/pic-1.png)
