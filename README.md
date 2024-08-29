@@ -57,6 +57,3 @@
 
 ### Edit/Delete Password
 ![Edit/Delete Password](public\screenshots\pic-3.png)
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
